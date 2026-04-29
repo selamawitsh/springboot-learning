@@ -1,4 +1,4 @@
-package com.selam.demo.encapsulation;
+package com.selam.demo.fundamentals.encapsulation;
 
 public class BankAccount {
     // PRIVATE fields - cannot be accessed directly

@@ -1,4 +1,4 @@
-package com.selam.demo.interfaces;
+package com.selam.demo.fundamentals.interfaces;
 
 // A class CAN implement MULTIPLE interfaces!
 public class Invoice implements Payable, Printable {

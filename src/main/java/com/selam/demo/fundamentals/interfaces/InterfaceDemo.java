@@ -1,4 +1,4 @@
-package com.selam.demo.interfaces;
+package com.selam.demo.fundamentals.interfaces;
 
 public class InterfaceDemo {
     public static void main(String[] args) {

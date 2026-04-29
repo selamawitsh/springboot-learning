@@ -1,4 +1,4 @@
-package com.selam.demo.encapsulation;
+package com.selam.demo.fundamentals.encapsulation;
 
 public class EncapsulationDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.selam.demo.polymorphism;
+package com.selam.demo.fundamentals.polymorphism;
 
 /**
  * Base class enabling polymorphism -

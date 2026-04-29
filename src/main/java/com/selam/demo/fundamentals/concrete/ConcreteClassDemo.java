@@ -1,4 +1,4 @@
-package com.selam.demo.concrete;
+package com.selam.demo.fundamentals.concrete;
 
 public class ConcreteClassDemo {
     public static void main(String[] args) {

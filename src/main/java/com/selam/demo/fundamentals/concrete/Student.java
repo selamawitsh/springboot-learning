@@ -1,4 +1,4 @@
-package com.selam.demo.concrete;
+package com.selam.demo.fundamentals.concrete;
 
 public class Student {
     private String studentId;

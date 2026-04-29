@@ -1,4 +1,4 @@
-package com.selam.demo.abstractclass;
+package com.selam.demo.fundamentals.abstractclass;
 
 public class ContractEmployee extends Employee {
     private int hoursWorked;

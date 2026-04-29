@@ -1,4 +1,4 @@
-package com.selam.demo.interfaces;
+package com.selam.demo.fundamentals.interfaces;
 
 public interface Payable {
     void processPayment(double amount);

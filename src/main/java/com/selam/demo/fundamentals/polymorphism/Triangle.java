@@ -1,4 +1,4 @@
-package com.selam.demo.polymorphism;
+package com.selam.demo.fundamentals.polymorphism;
 
 public class Triangle extends Shape {
     private double base, height;

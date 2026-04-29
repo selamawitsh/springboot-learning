@@ -1,4 +1,4 @@
-package com.selam.demo.interfaces;
+package com.selam.demo.fundamentals.interfaces;
 
 public interface Printable {
     void print();

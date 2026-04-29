@@ -1,4 +1,4 @@
-package com.selam.demo.integration;
+package com.selam.demo.fundamentals.integration;
 
 
 // ===== INTERFACES =====
